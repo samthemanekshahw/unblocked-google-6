@@ -1,0 +1,16 @@
+{
+"companyName": "VitalityGames",
+"productName": "Extreme Offroad Cars 3: Cargo",
+"productVersion": "1.0.2",
+"dataUrl": "ExtremeOffroadCars3Cargo.data.unityweb",
+"wasmCodeUrl": "ExtremeOffroadCars3Cargo.wasm.code.unityweb",
+"wasmFrameworkUrl": "ExtremeOffroadCars3Cargo.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.21f1"
+}
